@@ -42,8 +42,8 @@ Built with **MediaPipe Tasks Vision API (1.0+)**, **OpenCV**, **NumPy**, **AutoP
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/TheMalyala/AI-Adaptive-Virtual-Mouse.git
-cd AI-Adaptive-Virtual-Mouse
+git clone https://github.com/TheMalyala/AI-Virtual-Mouse.git
+cd AI-Virtual-Mouse
 ```
 
 ### 2. Install Dependencies
