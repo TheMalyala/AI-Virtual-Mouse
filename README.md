@@ -105,7 +105,3 @@ python hand_tracker.py
 ## 👤 Author
 
 Created & maintained by **[TheMalyala](https://github.com/TheMalyala)**.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
